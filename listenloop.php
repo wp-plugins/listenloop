@@ -3,7 +3,7 @@
 Plugin Name: ListenLoop
 Plugin URI: http://wordpress.org/extend/plugins/listenloop/
 Description: Integrate the <a href="http://get.listenloop.com">ListenLoop</a> B2B Retarging and micro survey solution into your WordPress website.
-Version: 1.0.0
+Version: 1.1
 Author: Sandeep Arneja
 Author URI: http://sandeep45.github.io
 */
