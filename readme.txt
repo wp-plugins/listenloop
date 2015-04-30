@@ -3,7 +3,7 @@ Contributors: Sandeep Arneja
 Tags: listenloop, javascript, retargeting, marketing, B2B Advertising
 Requires at least: 2.7
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -38,6 +38,9 @@ For more information visit:
 
 = 1.0 =
 * Initial Build
+
+= 1.1 =
+* Added banners and icons to the assets folder
 
  == Frequently Asked Questions ==
 
